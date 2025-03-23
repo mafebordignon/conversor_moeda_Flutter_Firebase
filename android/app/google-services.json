@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "700610851771",
+    "firebase_url": "https://conversao-moeda-default-rtdb.firebaseio.com",
     "project_id": "conversao-moeda",
     "storage_bucket": "conversao-moeda.firebasestorage.app"
   },
